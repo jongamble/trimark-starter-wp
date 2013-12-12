@@ -1,23 +1,13 @@
-# Bones
-__A Lightweight Wordpress Development Theme__
+# Trimark Starter Theme
+__because I couldn't come up with a more clever name__
 
 Bones is designed to make the life of developers easier. It's built
-using HTML5 & has a strong semantic foundation. It was updated recently
-using some of the HTML5 Boilerplate's recommended markup and setup.
-It's constantly growing so be sure to check back often if you are a
-frequent user. I'm always open to contribution. :)
+using HTML5 & has a strong semantic foundation. 
 
-Designed by **Eddie Machado**: http://themble.com/bones
+I then took it and cleaned it up for how I use it.
 
-Special Thanks to:
-* Paul Irish & the HTML5 Boilerplate
-* Yoast for some WP functions & optimization ideas
-* Andrew Rogers for code optimization
-* David Dellanave for speed & code optimization
-* and several other developers. :)
-
-Submit Bugs & or Fixes:
-https://github.com/eddiemachado/bones/issues
+Trimark Starter Theme Compiled by **Jon Gamble**: http://trimarkdigital.com/
+Bones Designed by **Eddie Machado**: http://themble.com/bones
 
 
 ## License

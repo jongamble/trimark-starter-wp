@@ -22,14 +22,6 @@
 								<section class="entry-content clearfix">
 									<?php the_content(); ?>
 								</section>
-
-								<footer class="article-footer">
-									<p class="tags"><?php the_tags( '<span class="tags-title">' . __( 'Tags:', 'bonestheme' ) . '</span> ', ', ', '' ); ?></p>
-
-								</footer>
-
-								<?php // comments_template(); // uncomment if you want to use them ?>
-
 							</article>
 
 							<?php endwhile; ?>
